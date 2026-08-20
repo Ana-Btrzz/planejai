@@ -5,7 +5,6 @@
 @import "@fontsource/inter/700.css";
 @import "./styles/theme.css";
 
-
 @layer base {
   body {
     @apply bg-background text-foreground;
